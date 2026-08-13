@@ -22,8 +22,10 @@ SwapVerse uses computer vision techniques to detect faces through a webcam and p
 
 ## 🖥️ Screenshots
 
-![Poster](./1.png)
+
 ### Main Interface
+![Poster](./1.png)
+
 
 
 ### Face Detection
@@ -59,7 +61,7 @@ SwapVerse was awarded **1st Place** in the Software Exhibition for the 2025–26
 
 A demonstration of SwapVerse running in real time:
 
-**[▶️ Watch Demo](YOUR_VIDEO_LINK_HERE)**
+**[▶️ Watch Demo](YOUR_VIDEO_LINK_HERE)** Coming soon
 
 ## 📌 Project Type
 
