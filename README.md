@@ -24,7 +24,7 @@ SwapVerse uses computer vision techniques to detect faces through a webcam and p
 
 ### Main Interface
 
-![SwapVerse Main UI]((https://github.com/devanshg10/SwapVerse/blob/main/1.png))
+![SwapVerse Main UI]((SwapVerse/blob/main/1.png))
 
 ### Face Detection
 
