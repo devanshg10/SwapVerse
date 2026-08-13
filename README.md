@@ -72,4 +72,3 @@ This repository is intended as a **public project showcase** containing project 
 
 **Devansh Gupta**
 
-BCA — Data Science & AI
